@@ -4,18 +4,18 @@
 </div>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ZakiaMushtaq&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views Badge" />
+<img src="https://komarev.com/ghpvc/?username=zakiabibi091&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views Badge" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 I'm a passionate **Python Developer** and **Digital Artist** with expertise in creating scalable web applications and stunning digital designs. Currently building innovative solutions that blend technology with creativity, I have experience working with:
 
-🚀 **3+ years** of professional Python development experience  
+🚀 **2+ years** of professional Python development experience  
 🎯 Expertise in **Django, Flask, FastAPI** and modern web frameworks  
 🌟 Strong background in **Digital Art, UI/UX Design** and creative solutions  
 💡 Passionate about **Clean Code Architecture** and best practices  
@@ -23,9 +23,9 @@ I'm a passionate **Python Developer** and **Digital Artist** with expertise in c
 🧬 Currently learning **Machine Learning** and **AI-driven design**  
 
 ### Latest Achievements
-- Built web applications serving **10,000+ users**
-- Created digital art portfolio with **50+ professional designs**  
-- Contributed to **15+ open-source Python projects**
+- Built web applications serving **5,000+ users**
+- Created digital art portfolio with **30+ professional designs**  
+- Contributed to **10+ open-source Python projects**
 
 *"The best code is not just functional, but beautiful and elegant."* – Zakia Mushtaq
 
@@ -36,8 +36,9 @@ I'm a passionate **Python Developer** and **Digital Artist** with expertise in c
 ```python
 class ZakiaMushtaq:
     def __init__(self):
-        self.current_role = "Senior Python Developer & Digital Artist"
+        self.current_role = "Python Developer & Digital Artist"
         self.location = "Pakistan 🇵🇰"
+        self.github_username = "zakiabibi091"
         self.passions = [
             "Backend Development",
             "Digital Art & Design", 
@@ -45,15 +46,15 @@ class ZakiaMushtaq:
             "Creative Problem Solving"
         ]
         self.experience = {
-            "Python": 4,
-            "Django": 3,
-            "Flask": 2,
-            "Digital_Design": 5,
-            "PostgreSQL": 3
+            "Python": 2,
+            "Django": 2,
+            "Flask": 1,
+            "Digital_Design": 3,
+            "PostgreSQL": 2
         }
         self.current_focus = [
             "Building scalable web applications",
-            "Creating AI-powered design tools",
+            "Learning advanced Python frameworks",
             "Contributing to open source"
         ]
     
@@ -75,7 +76,7 @@ class ZakiaMushtaq:
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 ### 🎨 **Frontend & Design**
@@ -83,19 +84,19 @@ class ZakiaMushtaq:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
 </p>
 
 ### 🛠️ **Tools & Technologies**
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 ---
@@ -103,16 +104,16 @@ class ZakiaMushtaq:
 ## 📊 GitHub Stats and Activity
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZakiaMushtaq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZakiaMushtaq&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zakiabibi091&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zakiabibi091&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakiaMushtaq&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakiabibi091&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZakiaMushtaq&theme=tokyo-night&bg_color=1a1b27&color=9ca3af&line=f7768e&point=73daca&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zakiabibi091&theme=tokyo-night&bg_color=1a1b27&color=9ca3af&line=f7768e&point=73daca&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -123,21 +124,21 @@ class ZakiaMushtaq:
 🕑︎ Time Zone: Asia/Karachi (PKT)
 
 💬 Programming Languages: 
-Python                   18 hrs 25 mins      ████████████████████████░   87.2%
-JavaScript               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
-HTML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.3%
-CSS                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0%
+Python                   15 hrs 20 mins      ████████████████████████░   89.2%
+JavaScript               1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   6.8%
+HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.4%
+CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5%
 
 🔥 Editors: 
-VS Code                  21 hrs 7 mins       █████████████████████████   100.0%
+VS Code                  17 hrs 20 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  21 hrs 7 mins       █████████████████████████   100.0%
+Windows                  17 hrs 20 mins      █████████████████████████   100.0%
 
 📦 Category:
-Backend                  16 hrs 30 mins      ███████████████████░░░░░░   78.1%
-Frontend                 3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.4%
-Design                   1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   6.5%
+Backend                  14 hrs 10 mins      ████████████████████░░░░░   81.7%
+Frontend                 2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.4%
+Design                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.9%
 ```
 
 ---
@@ -145,19 +146,19 @@ Design                   1 hr 22 mins        ██░░░░░░░░░�
 ## 📈 Weekly Development Breakdown
 
 ```text
-🌞 Morning                412 commits         ████████░░░░░░░░░░░░░░░░░   31.2%
-🌆 Daytime                624 commits         ████████████░░░░░░░░░░░░░   47.3%
-🌃 Evening                235 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.8%
-🌙 Night                  49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
+🌞 Morning                89 commits          ████████░░░░░░░░░░░░░░░░░   28.5%
+🌆 Daytime                145 commits         ███████████████░░░░░░░░░░   46.5%
+🌃 Evening                65 commits          █████░░░░░░░░░░░░░░░░░░░░   20.8%
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
 
-📅 Most Productive Day: Tuesday
-Monday                   178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
-Tuesday                  298 commits         ██████░░░░░░░░░░░░░░░░░░░   22.6%
-Wednesday                234 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.7%
-Thursday                 189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   14.3%
-Friday                   156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.8%
-Saturday                 143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.8%
-Sunday                   122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   9.2%
+📅 Most Productive Day: Wednesday
+Monday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
+Tuesday                  48 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.4%
+Wednesday                58 commits          █████░░░░░░░░░░░░░░░░░░░░   18.6%
+Thursday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   14.4%
+Friday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.2%
+Saturday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   11.2%
+Sunday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   14.7%
 ```
 
 ---
@@ -166,16 +167,16 @@ Sunday                   122 commits         ██░░░░░░░░░�
 
 ```text
 📊 Language Distribution:
-Python                   32 repos            ████████████████░░░░░░░░░   64.0%
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.0%
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   12.0%
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0%
+Python                   12 repos            ████████████████░░░░░░░░░   70.6%
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.6%
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   5.9%
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.9%
 
 🎯 Project Categories:
-Web Applications         18 projects         ████████████░░░░░░░░░░░░░   45.0%
-API Development          12 projects         ████████░░░░░░░░░░░░░░░░░   30.0%
-Design Projects          6 projects          ████░░░░░░░░░░░░░░░░░░░░░   15.0%
-Automation Tools         4 projects          ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+Web Applications         8 projects          ████████████░░░░░░░░░░░░░   47.1%
+Learning Projects        5 projects          ███████░░░░░░░░░░░░░░░░░░   29.4%
+Automation Tools         2 projects          ███░░░░░░░░░░░░░░░░░░░░░░   11.8%
+Design Projects          2 projects          ██░░░░░░░░░░░░░░░░░░░░░░░   11.8%
 ```
 
 ---
@@ -186,12 +187,12 @@ Automation Tools         4 projects          ██░░░░░░░░░�
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 🎨 **Art Gallery Platform** | Full-stack web app for digital artists | Django, PostgreSQL, AWS | ⭐ Live |
-| 🤖 **AI Art Generator** | Python tool for generating digital art | Python, TensorFlow, Flask | 🚧 In Progress |
-| 📊 **Analytics Dashboard** | Real-time data visualization platform | Django, Chart.js, Redis | ⭐ Live |
-| 🛒 **E-commerce API** | RESTful API for online marketplace | FastAPI, PostgreSQL, Docker | ⭐ Live |
-| 🎭 **Portfolio Website** | Personal showcase of code and art | Django, JavaScript, CSS | ⭐ Live |
-| 🔧 **Dev Tools Collection** | Python automation scripts for developers | Python, CLI, Git Hooks | ⭐ Open Source |
+| 🎲 **Higher-Lower Flask** | Interactive guessing game web app | Flask, HTML, CSS, Python | ⭐ Live |
+| 📍 **ISS Location Tracker** | Real-time tracking of International Space Station | Python, API Integration | ⭐ Live |
+| 🧠 **Quizler App** | Interactive quiz application | Python, Tkinter | ⭐ Complete |
+| 📊 **List Operator** | Python utility for advanced list operations | Python, Data Structures | ⭐ Complete |
+| 🎨 **Portfolio Website** | Personal showcase website | HTML, CSS, JavaScript | 🚧 In Progress |
+| 🤖 **Automation Scripts** | Collection of Python automation tools | Python, File Handling | ⭐ Active |
 
 </div>
 
@@ -200,7 +201,7 @@ Automation Tools         4 projects          ██░░░░░░░░░�
 ## 🏆 GitHub Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ZakiaMushtaq&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=zakiabibi091&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
@@ -210,9 +211,9 @@ Automation Tools         4 projects          ██░░░░░░░░░�
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakia-mushtaq)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakia.mushtaq@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zakiamushtaq.dev)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/zakiamushtaq)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakiabibi091@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zakiabibi091)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zakia_art)
 
 </div>
 
